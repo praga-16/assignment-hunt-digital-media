@@ -65,7 +65,7 @@ print("Done — closing browser.")
    Route::get('/html-page', function () {
        return view('html.app-calendar');
    });
-```
+
 📷 **Screenshot**:
 <img width="1917" height="1034" alt="Screenshot 2025-09-26 114707" src="https://github.com/user-attachments/assets/51613344-59b4-4816-a08e-6d7fbdbccaba" />
 
