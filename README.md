@@ -16,7 +16,7 @@ This assignment consists of **3 tasks**:
   - `http://127.0.0.1:8000/login`
 
 📷 **Screenshot**:  
-(Login page displayed here)
+
 <img width="1919" height="1024" alt="Screenshot 2025-09-25 231707" src="https://github.com/user-attachments/assets/ed1c02a7-40d7-4961-8a29-6c78baa5b20f" />
 
 ---
